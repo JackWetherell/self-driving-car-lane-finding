@@ -21,7 +21,6 @@ To run the pipeline simply launch and run the notebook:
 
 ## Directory structure
 ```
-.
 |-- demo.gif              -> Demo of the pipeline.
 |-- lane_finding.ipynb    -> Notebook containing all code and results.
 |-- lane_finding.pdf      -> Print out of the notebook containing all code and results.

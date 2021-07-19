@@ -2,11 +2,11 @@
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-![Demo](./demo.gif)
-
 In this project, the goal is to write a software pipeline to identify the lane boundaries in a video.
 
-# Requirements
+![Demo](./demo.gif)
+
+## Requirements
 
 - `numpy`
 - `scipy`
@@ -14,12 +14,12 @@ In this project, the goal is to write a software pipeline to identify the lane b
 - `opencv`
 - `jupyterlab`
 
-# Usage
+## Usage
 To run the pipeline simply launch and run the notebook:
 
 `jupyter lab`
 
-# Directory structure
+## Directory structure
 ```
 .
 |-- demo.gif              -> Demo of the pipeline.

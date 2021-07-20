@@ -15,7 +15,7 @@ In this project, the goal is to write a software pipeline to identify the lane b
 - `jupyterlab`
 
 ## Usage
-To run the pipeline simply launch and run the notebook:
+To run the pipeline simply launch and run the notebook in jupyter lab:
 
 `jupyter lab`
 
